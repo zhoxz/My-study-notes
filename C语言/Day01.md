@@ -34,3 +34,7 @@ C语言是仅产生少量的机器语言以及不需要任何运行环境支持�
 * printf：是库函数，用于在屏幕输出信息，使用时需引用stdio.h头文件。
 * { }内的是函数体。
 * //是注释，注释语句不会执行和出现。
+
+效果显示：
+
+![](https://github.com/zhoxz/My-study-notes/blob/main/C%E8%AF%AD%E8%A8%80/image/hello.jpg?raw=true)
