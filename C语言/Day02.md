@@ -42,6 +42,7 @@ sizeof:关键字，计算类型或者变量所占的空间大小。
 
 输出结果：
 
+![](https://github.com/zhoxz/My-study-notes/blob/main/C%E8%AF%AD%E8%A8%80/image/size.jpg?raw=true)
 
 解释：
 
