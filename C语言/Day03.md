@@ -7,3 +7,19 @@
 > 现在已经弄完了，还是十分不满，重整旗鼓吧。
 
 # 初始常量变量
+变量：可以改变的量
+
+常量：不能改变的量
+
+创建变量
+
+    #include <stdio.h>
+    int main(){
+    // 类型  变量名称 = 00；
+    int num = 20;
+    printf("%d\n",num);
+    num = num+10;
+    printf("%d\n",num);
+    return 0;}
+    
+代码输出： 20  30
